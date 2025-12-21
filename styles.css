@@ -1,0 +1,22 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+    background-color: papayawhip;
+    color: #008080;
+}
+
+h1 {
+  text-align: center;
+  padding: 10px
+}
+
+ul li {
+  padding: 5px;
+  text-align: center;
+}
